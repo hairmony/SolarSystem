@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harih\\UnityProjects\\SolarSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7062D2-755C-EF7A-B5EC-D8E8C8F3F01B}|Assembly-CSharp.csproj|c:\\users\\harih\\unityprojects\\solarsystem\\assets\\scripts\\rotatearound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7062D2-755C-EF7A-B5EC-D8E8C8F3F01B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatearound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7062D2-755C-EF7A-B5EC-D8E8C8F3F01B}|Assembly-CSharp.csproj|c:\\users\\harih\\unityprojects\\solarsystem\\assets\\scripts\\lookattarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7062D2-755C-EF7A-B5EC-D8E8C8F3F01B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lookattarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RotateAround.cs",
+              "DocumentMoniker": "C:\\Users\\harih\\UnityProjects\\SolarSystem\\Assets\\Scripts\\RotateAround.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotateAround.cs",
+              "ToolTip": "C:\\Users\\harih\\UnityProjects\\SolarSystem\\Assets\\Scripts\\RotateAround.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotateAround.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:03:02.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LookAtTarget.cs",
+              "DocumentMoniker": "C:\\Users\\harih\\UnityProjects\\SolarSystem\\Assets\\Scripts\\LookAtTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LookAtTarget.cs",
+              "ToolTip": "C:\\Users\\harih\\UnityProjects\\SolarSystem\\Assets\\Scripts\\LookAtTarget.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LookAtTarget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:54:54.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
